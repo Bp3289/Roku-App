@@ -3,3 +3,5 @@ major_version=1
 minor_version=2
 build_version=0
 mm_icon_focus_hd=pkg:/images/mm_icon_focus_hd.jpg
+splash_min_time=0
+ui_resolutions=fhd
