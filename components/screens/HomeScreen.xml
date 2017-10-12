@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<component name="HomeScreen" extends="Scene">
+
+    <script type="text/brightscript" uri="pkg:/components/screens/HomeScreen.brs"/>
+
+    <children>
+
+        <Label id="myLabel"
+        text="Hey you did it!"
+        width="1280"
+        height="720"
+        horizAlign="center"
+        vertAlign="center"
+        />
+     </children>
+
+     </component>
